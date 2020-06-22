@@ -1,0 +1,17 @@
+2.0
+50
+1.0
+0.02
+0
+20
+10000
+0
+
+  ReadInput >> temp;
+  ReadInput >> nspin;
+  ReadInput >> J;
+  ReadInput >> h;
+  ReadInput >> metro; (1 se Metropolis, 0 se Gibbs)
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> start; (0 se prima partenza, 1 se rilegge)
